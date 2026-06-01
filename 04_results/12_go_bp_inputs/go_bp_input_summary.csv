@@ -1,0 +1,7 @@
+contrast,direction,FDR,LFC,genes_in_list,output_file,background_genes,background_file
+Lac_8h_vs_M1_8h,UP,0.01,0.5,2417,04_results/12_go_bp_inputs/gene_lists/Lac_8h_vs_M1_8h_UP_ensembl.txt,17006,04_results/12_go_bp_inputs/gene_lists/background_filterByExpr_ensembl.txt
+Lac_8h_vs_M1_8h,DOWN,0.01,0.5,1509,04_results/12_go_bp_inputs/gene_lists/Lac_8h_vs_M1_8h_DOWN_ensembl.txt,17006,04_results/12_go_bp_inputs/gene_lists/background_filterByExpr_ensembl.txt
+Lac_16h_vs_M1_16h,UP,0.01,0.5,1793,04_results/12_go_bp_inputs/gene_lists/Lac_16h_vs_M1_16h_UP_ensembl.txt,17006,04_results/12_go_bp_inputs/gene_lists/background_filterByExpr_ensembl.txt
+Lac_16h_vs_M1_16h,DOWN,0.01,0.5,1062,04_results/12_go_bp_inputs/gene_lists/Lac_16h_vs_M1_16h_DOWN_ensembl.txt,17006,04_results/12_go_bp_inputs/gene_lists/background_filterByExpr_ensembl.txt
+Lac_24h_vs_M1_24h,UP,0.01,0.5,1007,04_results/12_go_bp_inputs/gene_lists/Lac_24h_vs_M1_24h_UP_ensembl.txt,17006,04_results/12_go_bp_inputs/gene_lists/background_filterByExpr_ensembl.txt
+Lac_24h_vs_M1_24h,DOWN,0.01,0.5,1122,04_results/12_go_bp_inputs/gene_lists/Lac_24h_vs_M1_24h_DOWN_ensembl.txt,17006,04_results/12_go_bp_inputs/gene_lists/background_filterByExpr_ensembl.txt

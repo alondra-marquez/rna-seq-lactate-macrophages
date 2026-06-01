@@ -1,0 +1,54 @@
+# Datos crudos y archivos pesados
+*.fastq.gz
+*.fq.gz
+*.sra
+*.bam
+*.bai
+*.sam
+
+# Referencias e índices
+02_data/reference/
+*.fa
+*.fasta
+*.gtf
+*.gff
+*.idx
+
+# Logs y archivos temporales
+06_logs/
+*.out
+*.err
+*.time.txt
+nohup.out
+
+# Archivos temporales de R / Quarto
+.Rhistory
+.RData
+.Rproj.user/
+*_cache/
+*_files/
+.quarto/
+
+# Sistema
+.DS_Store
+
+# Resultados pesados o regenerables
+04_results/01_fastqc_raw/
+04_results/02_multiqc_raw/
+04_results/03_fastp_reports/
+04_results/04_fastqc_clean/
+04_results/05_multiqc_clean/
+04_results/06_star_pe/
+
+# Matrices intermedias grandes
+04_results/10_dge_qc/vst_matrix.csv
+04_results/11_deseq2_dge/vst_matrix.rds
+
+# Archivos comunes de reportes masivos
+*.zip
+*.bam
+*.bai
+*.sam
+*.fastq.gz
+*.fq.gz
+*.parquet

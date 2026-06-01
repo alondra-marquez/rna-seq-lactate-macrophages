@@ -1,0 +1,33 @@
+Fecha:
+Sun May 31 10:47:04 PM CST 2026
+
+Directorio de trabajo:
+/export/space3/users/alondram/GENOMICAS/4to_sem/Transcriptomica_26/02_proyecto
+
+Sistema:
+chaac.lcg.unam.mx
+Linux chaac.lcg.unam.mx 5.14.0-654.el9.x86_64 #1 SMP PREEMPT_DYNAMIC Fri Dec 19 08:34:59 UTC 2025 x86_64 GNU/Linux
+
+Bash:
+GNU bash, version 5.1.8(1)-release (x86_64-redhat-linux-gnu)
+
+Python:
+Python 3.10.18
+
+R:
+R version 4.3.3 (2024-02-29) -- "Angel Food Cake"
+
+fastp:
+fastp no encontrado en PATH actual
+
+FastQC:
+FastQC v0.12.1
+
+MultiQC:
+multiqc, version 1.33
+
+STAR:
+STAR no encontrado en PATH actual
+
+gzip:
+gzip 1.12

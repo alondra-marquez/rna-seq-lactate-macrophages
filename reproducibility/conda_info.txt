@@ -1,0 +1,31 @@
+
+     active environment : base
+    active env location : /export/apps/bioconda
+            shell level : 1
+       user config file : /home/alondram/.condarc
+ populated config files : /export/apps/bioconda/.condarc
+          conda version : 24.5.0
+    conda-build version : not installed
+         python version : 3.10.18.final.0
+                 solver : libmamba (default)
+       virtual packages : __archspec=1=icelake
+                          __conda=24.5.0=0
+                          __glibc=2.34=0
+                          __linux=5.14.0=0
+                          __unix=0=0
+       base environment : /export/apps/bioconda  (read only)
+      conda av data dir : /export/apps/bioconda/etc/conda
+  conda av metadata url : None
+           channel URLs : https://conda.anaconda.org/conda-forge/linux-64
+                          https://conda.anaconda.org/conda-forge/noarch
+          package cache : /export/apps/bioconda/pkgs
+                          /home/alondram/.conda/pkgs
+       envs directories : /home/alondram/.conda/envs
+                          /export/apps/bioconda/envs
+               platform : linux-64
+             user-agent : conda/24.5.0 requests/2.31.0 CPython/3.10.18 Linux/5.14.0-654.el9.x86_64 centos/9 glibc/2.34 solver/libmamba conda-libmamba-solver/24.1.0 libmambapy/1.5.8
+                UID:GID : 2310:104
+             netrc file : None
+           offline mode : False
+
+

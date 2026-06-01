@@ -1,0 +1,6 @@
+Metrica	Resultado
+Número de muestras alineadas	32
+Tipo de datos	Paired-end
+Archivos FASTQ limpios usados	64
+Porcentaje promedio de alineamiento único	87.64%
+Porcentaje promedio de lecturas multimapeadas	8.18%

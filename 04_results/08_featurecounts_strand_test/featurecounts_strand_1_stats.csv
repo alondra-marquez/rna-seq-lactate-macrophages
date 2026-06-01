@@ -1,0 +1,15 @@
+"Status","SRR7264061_Aligned.sortedByCoord.out.bam","SRR7264062_Aligned.sortedByCoord.out.bam","SRR7264063_Aligned.sortedByCoord.out.bam","SRR7264064_Aligned.sortedByCoord.out.bam","SRR7264065_Aligned.sortedByCoord.out.bam","SRR7264066_Aligned.sortedByCoord.out.bam","SRR7264067_Aligned.sortedByCoord.out.bam","SRR7264068_Aligned.sortedByCoord.out.bam","SRR7264069_Aligned.sortedByCoord.out.bam","SRR7264070_Aligned.sortedByCoord.out.bam","SRR7264071_Aligned.sortedByCoord.out.bam","SRR7264072_Aligned.sortedByCoord.out.bam","SRR7264073_Aligned.sortedByCoord.out.bam","SRR7264074_Aligned.sortedByCoord.out.bam","SRR7264075_Aligned.sortedByCoord.out.bam","SRR7264076_Aligned.sortedByCoord.out.bam","SRR7264077_Aligned.sortedByCoord.out.bam","SRR7264078_Aligned.sortedByCoord.out.bam","SRR7264079_Aligned.sortedByCoord.out.bam","SRR7264080_Aligned.sortedByCoord.out.bam","SRR7264081_Aligned.sortedByCoord.out.bam","SRR7264082_Aligned.sortedByCoord.out.bam","SRR7264083_Aligned.sortedByCoord.out.bam","SRR7264084_Aligned.sortedByCoord.out.bam","SRR7264085_Aligned.sortedByCoord.out.bam","SRR7264086_Aligned.sortedByCoord.out.bam","SRR7264087_Aligned.sortedByCoord.out.bam","SRR7264088_Aligned.sortedByCoord.out.bam","SRR7264089_Aligned.sortedByCoord.out.bam","SRR7264090_Aligned.sortedByCoord.out.bam","SRR7264091_Aligned.sortedByCoord.out.bam","SRR7264092_Aligned.sortedByCoord.out.bam"
+"Assigned",4064336,3613816,4022889,3787805,4664804,4434089,5387079,4955058,4004073,4483775,4309827,4293245,5068871,5579726,6198254,5062862,5660878,6120368,4608765,5251702,3683369,4284272,5457855,4038770,5188940,4109580,4655164,3780677,4946698,6069758,7693992,6325027
+"Unassigned_Unmapped",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Unassigned_Read_Type",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Unassigned_Singleton",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Unassigned_MappingQuality",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Unassigned_Chimera",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Unassigned_FragmentLength",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Unassigned_Duplicate",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Unassigned_MultiMapping",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Unassigned_Secondary",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Unassigned_NonSplit",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Unassigned_NoFeatures",37966903,36238382,41214728,36124394,53008984,50745767,61078501,57284432,43989874,48141582,46382565,46905437,44135411,47365240,54325264,45867436,43857229,45360805,36350322,40319741,42365156,48124562,61428491,45981982,51456345,39149624,43146300,35567721,35635806,44708348,56040541,45913995
+"Unassigned_Overlapping_Length",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Unassigned_Ambiguity",18972,16606,19470,16944,27556,26921,32651,30135,18598,21428,19563,19340,20926,22659,25121,22398,20276,21666,17781,17720,18724,21639,27695,21036,22613,18988,22758,17063,16152,21674,25087,23152
