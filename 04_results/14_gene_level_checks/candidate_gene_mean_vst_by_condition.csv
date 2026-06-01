@@ -1,0 +1,97 @@
+gene_name,condition,mean_vst,z,category,biological_reason
+Arg1,BMDM_0h,6.754894300577011,-1.3479071317901374,Homeostático / M2-like,Gen destacado en el modelo de lactato/lactilación; metabolismo de arginina y reparación
+Arg1,M1_4h,6.325264979623465,-1.3479071317901374,Homeostático / M2-like,Gen destacado en el modelo de lactato/lactilación; metabolismo de arginina y reparación
+Arg1,M1_8h,11.7522275922549,-1.3479071317901374,Homeostático / M2-like,Gen destacado en el modelo de lactato/lactilación; metabolismo de arginina y reparación
+Arg1,M1_Lac_8h,10.437739574239224,-1.3479071317901374,Homeostático / M2-like,Gen destacado en el modelo de lactato/lactilación; metabolismo de arginina y reparación
+Arg1,M1_16h,14.617830403279676,-1.3479071317901374,Homeostático / M2-like,Gen destacado en el modelo de lactato/lactilación; metabolismo de arginina y reparación
+Arg1,M1_Lac_16h,14.8528755491705,-1.3479071317901374,Homeostático / M2-like,Gen destacado en el modelo de lactato/lactilación; metabolismo de arginina y reparación
+Arg1,M1_24h,15.268695125294725,-1.3479071317901374,Homeostático / M2-like,Gen destacado en el modelo de lactato/lactilación; metabolismo de arginina y reparación
+Arg1,M1_Lac_24h,16.62319069687905,-1.3479071317901374,Homeostático / M2-like,Gen destacado en el modelo de lactato/lactilación; metabolismo de arginina y reparación
+Cd9,BMDM_0h,13.270937779344376,-0.4731486166425382,Estado celular / membrana,Gen representativo observado en el heatmap del análisis
+Cd9,M1_4h,13.848797639192426,-0.4731486166425382,Estado celular / membrana,Gen representativo observado en el heatmap del análisis
+Cd9,M1_8h,13.376194055570249,-0.4731486166425382,Estado celular / membrana,Gen representativo observado en el heatmap del análisis
+Cd9,M1_Lac_8h,13.09279232811935,-0.4731486166425382,Estado celular / membrana,Gen representativo observado en el heatmap del análisis
+Cd9,M1_16h,12.98168460829985,-0.4731486166425382,Estado celular / membrana,Gen representativo observado en el heatmap del análisis
+Cd9,M1_Lac_16h,13.402389390421575,-0.4731486166425382,Estado celular / membrana,Gen representativo observado en el heatmap del análisis
+Cd9,M1_24h,13.557839830134474,-0.4731486166425382,Estado celular / membrana,Gen representativo observado en el heatmap del análisis
+Cd9,M1_Lac_24h,14.72799120829785,-0.4731486166425382,Estado celular / membrana,Gen representativo observado en el heatmap del análisis
+Cxcl10,BMDM_0h,8.869837103618192,-1.304745323368476,M1 inflamatorio,Quimiocina inducida en activación inflamatoria
+Cxcl10,M1_4h,18.207490337580424,-1.304745323368476,M1 inflamatorio,Quimiocina inducida en activación inflamatoria
+Cxcl10,M1_8h,13.0907077600955,-1.304745323368476,M1 inflamatorio,Quimiocina inducida en activación inflamatoria
+Cxcl10,M1_Lac_8h,13.607389523250324,-1.304745323368476,M1 inflamatorio,Quimiocina inducida en activación inflamatoria
+Cxcl10,M1_16h,11.857832178745275,-1.304745323368476,M1 inflamatorio,Quimiocina inducida en activación inflamatoria
+Cxcl10,M1_Lac_16h,12.844608938377375,-1.304745323368476,M1 inflamatorio,Quimiocina inducida en activación inflamatoria
+Cxcl10,M1_24h,10.547397117645449,-1.304745323368476,M1 inflamatorio,Quimiocina inducida en activación inflamatoria
+Cxcl10,M1_Lac_24h,10.947041436905,-1.304745323368476,M1 inflamatorio,Quimiocina inducida en activación inflamatoria
+Dusp1,BMDM_0h,8.32222070363092,-2.0897887301717732,Regulación / estrés,Regulador de señalización MAPK; apareció entre genes destacados
+Dusp1,M1_4h,13.90969894140185,-2.0897887301717732,Regulación / estrés,Regulador de señalización MAPK; apareció entre genes destacados
+Dusp1,M1_8h,12.454057143261926,-2.0897887301717732,Regulación / estrés,Regulador de señalización MAPK; apareció entre genes destacados
+Dusp1,M1_Lac_8h,12.185419285749925,-2.0897887301717732,Regulación / estrés,Regulador de señalización MAPK; apareció entre genes destacados
+Dusp1,M1_16h,11.098699906397675,-2.0897887301717732,Regulación / estrés,Regulador de señalización MAPK; apareció entre genes destacados
+Dusp1,M1_Lac_16h,11.9985564685731,-2.0897887301717732,Regulación / estrés,Regulador de señalización MAPK; apareció entre genes destacados
+Dusp1,M1_24h,11.534757842518076,-2.0897887301717732,Regulación / estrés,Regulador de señalización MAPK; apareció entre genes destacados
+Dusp1,M1_Lac_24h,13.299526106752126,-2.0897887301717732,Regulación / estrés,Regulador de señalización MAPK; apareció entre genes destacados
+Hcar2,BMDM_0h,5.641450678551743,-1.140787421819836,Respuesta a metabolitos,Receptor asociado a señales metabólicas; apareció en genes representativos
+Hcar2,M1_4h,13.77562057206815,-1.140787421819836,Respuesta a metabolitos,Receptor asociado a señales metabólicas; apareció en genes representativos
+Hcar2,M1_8h,11.24959637186515,-1.140787421819836,Respuesta a metabolitos,Receptor asociado a señales metabólicas; apareció en genes representativos
+Hcar2,M1_Lac_8h,11.410380156990076,-1.140787421819836,Respuesta a metabolitos,Receptor asociado a señales metabólicas; apareció en genes representativos
+Hcar2,M1_16h,6.6458949683695625,-1.140787421819836,Respuesta a metabolitos,Receptor asociado a señales metabólicas; apareció en genes representativos
+Hcar2,M1_Lac_16h,7.770603731493355,-1.140787421819836,Respuesta a metabolitos,Receptor asociado a señales metabólicas; apareció en genes representativos
+Hcar2,M1_24h,6.392604378052275,-1.140787421819836,Respuesta a metabolitos,Receptor asociado a señales metabólicas; apareció en genes representativos
+Hcar2,M1_Lac_24h,8.712057802435055,-1.140787421819836,Respuesta a metabolitos,Receptor asociado a señales metabólicas; apareció en genes representativos
+Hspa1b,BMDM_0h,6.900172266231692,-1.6293030995136553,Estrés celular,Proteína de choque térmico; posible respuesta a estrés celular
+Hspa1b,M1_4h,10.23049341548355,-1.6293030995136553,Estrés celular,Proteína de choque térmico; posible respuesta a estrés celular
+Hspa1b,M1_8h,13.8732716326339,-1.6293030995136553,Estrés celular,Proteína de choque térmico; posible respuesta a estrés celular
+Hspa1b,M1_Lac_8h,14.742931917617849,-1.6293030995136553,Estrés celular,Proteína de choque térmico; posible respuesta a estrés celular
+Hspa1b,M1_16h,10.068804825219061,-1.6293030995136553,Estrés celular,Proteína de choque térmico; posible respuesta a estrés celular
+Hspa1b,M1_Lac_16h,11.992022966036174,-1.6293030995136553,Estrés celular,Proteína de choque térmico; posible respuesta a estrés celular
+Hspa1b,M1_24h,9.792050914057857,-1.6293030995136553,Estrés celular,Proteína de choque térmico; posible respuesta a estrés celular
+Hspa1b,M1_Lac_24h,10.159777901127324,-1.6293030995136553,Estrés celular,Proteína de choque térmico; posible respuesta a estrés celular
+Hspa1l,BMDM_0h,5.239127509362783,-1.592707597694649,Estrés celular,Proteína de choque térmico; posible respuesta a estrés celular
+Hspa1l,M1_4h,6.946199504110668,-1.592707597694649,Estrés celular,Proteína de choque térmico; posible respuesta a estrés celular
+Hspa1l,M1_8h,9.352008636495398,-1.592707597694649,Estrés celular,Proteína de choque térmico; posible respuesta a estrés celular
+Hspa1l,M1_Lac_8h,10.523874061377825,-1.592707597694649,Estrés celular,Proteína de choque térmico; posible respuesta a estrés celular
+Hspa1l,M1_16h,7.120962905124332,-1.592707597694649,Estrés celular,Proteína de choque térmico; posible respuesta a estrés celular
+Hspa1l,M1_Lac_16h,8.276579036973779,-1.592707597694649,Estrés celular,Proteína de choque térmico; posible respuesta a estrés celular
+Hspa1l,M1_24h,7.203284684623073,-1.592707597694649,Estrés celular,Proteína de choque térmico; posible respuesta a estrés celular
+Hspa1l,M1_Lac_24h,7.77375048532232,-1.592707597694649,Estrés celular,Proteína de choque térmico; posible respuesta a estrés celular
+Il1b,BMDM_0h,5.85471756153341,-2.1261144676192223,M1 inflamatorio,Citocina inflamatoria asociada a respuesta innata
+Il1b,M1_4h,17.105379605760948,-2.1261144676192223,M1 inflamatorio,Citocina inflamatoria asociada a respuesta innata
+Il1b,M1_8h,16.187460005109376,-2.1261144676192223,M1 inflamatorio,Citocina inflamatoria asociada a respuesta innata
+Il1b,M1_Lac_8h,16.264882384503924,-2.1261144676192223,M1 inflamatorio,Citocina inflamatoria asociada a respuesta innata
+Il1b,M1_16h,12.996654301012374,-2.1261144676192223,M1 inflamatorio,Citocina inflamatoria asociada a respuesta innata
+Il1b,M1_Lac_16h,14.657430667481774,-2.1261144676192223,M1 inflamatorio,Citocina inflamatoria asociada a respuesta innata
+Il1b,M1_24h,11.64909478354185,-2.1261144676192223,M1 inflamatorio,Citocina inflamatoria asociada a respuesta innata
+Il1b,M1_Lac_24h,13.55941495176935,-2.1261144676192223,M1 inflamatorio,Citocina inflamatoria asociada a respuesta innata
+Il6,BMDM_0h,3.7618602686483125,-1.2730801734988397,M1 inflamatorio,Citocina proinflamatoria asociada a activación M1
+Il6,M1_4h,13.639141326979974,-1.2730801734988397,M1 inflamatorio,Citocina proinflamatoria asociada a activación M1
+Il6,M1_8h,10.446798972603574,-1.2730801734988397,M1 inflamatorio,Citocina proinflamatoria asociada a activación M1
+Il6,M1_Lac_8h,10.981712117933926,-1.2730801734988397,M1 inflamatorio,Citocina proinflamatoria asociada a activación M1
+Il6,M1_16h,6.357149582750583,-1.2730801734988397,M1 inflamatorio,Citocina proinflamatoria asociada a activación M1
+Il6,M1_Lac_16h,7.524795140599412,-1.2730801734988397,M1 inflamatorio,Citocina proinflamatoria asociada a activación M1
+Il6,M1_24h,5.168210233347359,-1.2730801734988397,M1 inflamatorio,Citocina proinflamatoria asociada a activación M1
+Il6,M1_Lac_24h,6.308316421259242,-1.2730801734988397,M1 inflamatorio,Citocina proinflamatoria asociada a activación M1
+Nos2,BMDM_0h,5.195374976343895,-2.1010433286002783,M1 inflamatorio,Marcador de activación M1 y producción de óxido nítrico
+Nos2,M1_4h,16.103628276816274,-2.1010433286002783,M1 inflamatorio,Marcador de activación M1 y producción de óxido nítrico
+Nos2,M1_8h,14.41552630993365,-2.1010433286002783,M1 inflamatorio,Marcador de activación M1 y producción de óxido nítrico
+Nos2,M1_Lac_8h,15.512474362629874,-2.1010433286002783,M1 inflamatorio,Marcador de activación M1 y producción de óxido nítrico
+Nos2,M1_16h,10.4365243166039,-2.1010433286002783,M1 inflamatorio,Marcador de activación M1 y producción de óxido nítrico
+Nos2,M1_Lac_16h,14.113597611892875,-2.1010433286002783,M1 inflamatorio,Marcador de activación M1 y producción de óxido nítrico
+Nos2,M1_24h,11.70081885259965,-2.1010433286002783,M1 inflamatorio,Marcador de activación M1 y producción de óxido nítrico
+Nos2,M1_Lac_24h,14.895895214811075,-2.1010433286002783,M1 inflamatorio,Marcador de activación M1 y producción de óxido nítrico
+Tnf,BMDM_0h,8.06037111589644,-1.3416651242829054,M1 inflamatorio,Citocina proinflamatoria asociada a activación M1
+Tnf,M1_4h,15.87889285517395,-1.3416651242829054,M1 inflamatorio,Citocina proinflamatoria asociada a activación M1
+Tnf,M1_8h,14.531049880442499,-1.3416651242829054,M1 inflamatorio,Citocina proinflamatoria asociada a activación M1
+Tnf,M1_Lac_8h,14.82539161825405,-1.3416651242829054,M1 inflamatorio,Citocina proinflamatoria asociada a activación M1
+Tnf,M1_16h,11.1320212814169,-1.3416651242829054,M1 inflamatorio,Citocina proinflamatoria asociada a activación M1
+Tnf,M1_Lac_16h,11.179160857207075,-1.3416651242829054,M1 inflamatorio,Citocina proinflamatoria asociada a activación M1
+Tnf,M1_24h,9.437979813710694,-1.3416651242829054,M1 inflamatorio,Citocina proinflamatoria asociada a activación M1
+Tnf,M1_Lac_24h,10.010634004035623,-1.3416651242829054,M1 inflamatorio,Citocina proinflamatoria asociada a activación M1
+Vegfa,BMDM_0h,10.885307509682324,-0.30538673776666647,Homeostático / M2-like,Gen M2-like reportado como sensible a lactato en el contexto del artículo
+Vegfa,M1_4h,9.088420194408995,-0.30538673776666647,Homeostático / M2-like,Gen M2-like reportado como sensible a lactato en el contexto del artículo
+Vegfa,M1_8h,10.55254158262885,-0.30538673776666647,Homeostático / M2-like,Gen M2-like reportado como sensible a lactato en el contexto del artículo
+Vegfa,M1_Lac_8h,10.7822000362259,-0.30538673776666647,Homeostático / M2-like,Gen M2-like reportado como sensible a lactato en el contexto del artículo
+Vegfa,M1_16h,11.008083071044226,-0.30538673776666647,Homeostático / M2-like,Gen M2-like reportado como sensible a lactato en el contexto del artículo
+Vegfa,M1_Lac_16h,11.999987798837424,-0.30538673776666647,Homeostático / M2-like,Gen M2-like reportado como sensible a lactato en el contexto del artículo
+Vegfa,M1_24h,12.5806403299935,-0.30538673776666647,Homeostático / M2-like,Gen M2-like reportado como sensible a lactato en el contexto del artículo
+Vegfa,M1_Lac_24h,13.5175470090405,-0.30538673776666647,Homeostático / M2-like,Gen M2-like reportado como sensible a lactato en el contexto del artículo

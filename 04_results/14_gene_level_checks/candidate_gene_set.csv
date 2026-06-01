@@ -1,0 +1,13 @@
+gene_name,category,biological_reason
+Arg1,Homeostático / M2-like,Gen destacado en el modelo de lactato/lactilación; metabolismo de arginina y reparación
+Vegfa,Homeostático / M2-like,Gen M2-like reportado como sensible a lactato en el contexto del artículo
+Nos2,M1 inflamatorio,Marcador de activación M1 y producción de óxido nítrico
+Tnf,M1 inflamatorio,Citocina proinflamatoria asociada a activación M1
+Il6,M1 inflamatorio,Citocina proinflamatoria asociada a activación M1
+Il1b,M1 inflamatorio,Citocina inflamatoria asociada a respuesta innata
+Cxcl10,M1 inflamatorio,Quimiocina inducida en activación inflamatoria
+Hcar2,Respuesta a metabolitos,Receptor asociado a señales metabólicas; apareció en genes representativos
+Dusp1,Regulación / estrés,Regulador de señalización MAPK; apareció entre genes destacados
+Hspa1b,Estrés celular,Proteína de choque térmico; posible respuesta a estrés celular
+Hspa1l,Estrés celular,Proteína de choque térmico; posible respuesta a estrés celular
+Cd9,Estado celular / membrana,Gen representativo observado en el heatmap del análisis
